@@ -1,0 +1,52 @@
+мар 15, 2020 10:28:42 AM interf.Main main
+INFO: Logged!
+мар 15, 2020 10:28:42 AM interf.repository.PersonRepository get
+INFO: get person in interf.repository.PersonRepository
+мар 15, 2020 10:28:42 AM interf.repository.PersonRepository get
+SEVERE: 10
+мар 15, 2020 10:28:42 AM interf.Main main
+INFO: Create Factory
+мар 15, 2020 10:28:42 AM interf.Main main
+INFO: Create Repository
+мар 15, 2020 10:28:42 AM interf.reader.Reader <init>
+INFO: created reader
+мар 15, 2020 10:28:42 AM interf.reader.Reader read
+INFO:  read file
+мар 15, 2020 10:28:42 AM interf.entities.Division <init>
+INFO: created division
+мар 15, 2020 10:28:42 AM interf.entities.Division <init>
+INFO: created division
+мар 15, 2020 10:28:42 AM interf.entities.Division <init>
+INFO: created division
+мар 15, 2020 10:28:42 AM interf.entities.Division <init>
+INFO: created division
+мар 15, 2020 10:28:42 AM interf.entities.Division <init>
+INFO: created division
+мар 15, 2020 10:28:42 AM interf.entities.Division <init>
+INFO: created division
+мар 15, 2020 10:28:42 AM interf.entities.Division <init>
+INFO: created division
+мар 15, 2020 10:28:42 AM interf.entities.Division <init>
+INFO: created division
+мар 15, 2020 10:28:42 AM interf.entities.Division <init>
+INFO: created division
+мар 15, 2020 10:28:42 AM interf.entities.Division <init>
+INFO: created division
+мар 15, 2020 10:28:42 AM interf.entities.Division <init>
+INFO: created division
+мар 15, 2020 10:28:42 AM interf.entities.Division <init>
+INFO: created division
+мар 15, 2020 10:28:42 AM interf.entities.Division <init>
+INFO: created division
+мар 15, 2020 10:28:42 AM interf.entities.Division <init>
+INFO: created division
+мар 15, 2020 10:28:42 AM interf.entities.Division <init>
+INFO: created division
+мар 15, 2020 10:28:43 AM interf.Main main
+INFO: File readed
+мар 15, 2020 10:28:43 AM interf.stream.StreamAPI getMap1
+INFO: Get division sum salary
+мар 15, 2020 10:28:43 AM interf.stream.StreamAPI getMap2
+INFO: Get person where age>30 and name contain literal - a 
+мар 15, 2020 10:28:43 AM interf.stream.StreamAPI getMap3
+INFO: Get person where  and name contain literals - aa 
